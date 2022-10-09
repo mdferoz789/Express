@@ -1,0 +1,7 @@
+{
+"to":"mdferoz789@gmail.com",
+"cc":admin@infosys.com",
+"bcc":"",
+"subject":"congratulations for .....",
+"body":"Hi,greeting from feroz & team to all of you  on the occasion of new year2023"
+}
